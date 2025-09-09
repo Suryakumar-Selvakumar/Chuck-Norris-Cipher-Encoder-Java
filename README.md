@@ -22,7 +22,8 @@ spaces. The program was built incrementally, with each stage introducing a new c
 
 ## Demo
 
-<video width="1920" height="1080" align="center" src=""></video>
+<video width="1920" height="1080" align="center" src="https://github.com/user-attachments/assets/5d0608e6-7e27-4e9b-bf08-580666803fa9"></video>
+
 
 ## Takeaway
 
